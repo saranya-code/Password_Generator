@@ -45,6 +45,6 @@ Created an application for random password generator using Javascript.
     ![Webpage Screenshot](./images/password_generator_homepage.png?raw=true)
     ![Webpage Screenshot](./images/password_generator1.png?raw=true)
     ![Webpage Screenshot](./images/password_generator2.png?raw=true)
-    ![Webpage Screenshot](./images/password_generator3.png?raw=true)
+    ![Webpage Screenshot](./images/Password_generator3.png?raw=true)
 
 
