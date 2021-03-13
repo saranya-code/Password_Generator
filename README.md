@@ -37,10 +37,14 @@ Created an application for random password generator using Javascript.
 
 # Resource links:
 
-* Github repository URL : 
+* Github repository URL :  https://github.com/saranya-code/Password_Generator
 
-* Deployment URL :
+* Deployment URL : https://saranya-code.github.io/Password_Generator/
 
 * Screenshot :
-    ![Webpage Screenshot](./assets/image/Aboutme.png?raw=true)
+    ![Webpage Screenshot](./images/password_generator_homepage.png?raw=true)
+    ![Webpage Screenshot](./images/password_generator1_homepage.png?raw=true)
+    ![Webpage Screenshot](./images/password_generator2_homepage.png?raw=true)
+    ![Webpage Screenshot](./images/password_generator3_homepage.png?raw=true)
+
 
